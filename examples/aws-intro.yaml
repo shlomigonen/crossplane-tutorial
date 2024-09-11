@@ -50,7 +50,7 @@ spec:
     namespace: production
     image: c8n.io/vfarcic/silly-demo:1.4.52
     port: 8080
-    host: silly-demo.acme.com
+    host: silly-demo.rivusai.com
     dbSecret:
       name: silly-demo-db
       namespace: a-team
